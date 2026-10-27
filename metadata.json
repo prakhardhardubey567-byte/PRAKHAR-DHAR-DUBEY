@@ -1,0 +1,8 @@
+{
+  "name": "Remix TEAM SPUTNIK DASHBOARD",
+  "description": "Mission Control Flight Dynamics (FIDO/TRAJ) console providing real-time telemetry, latitude/longitude/altitude/speed, orbital elements, and projected deep space trajectories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
